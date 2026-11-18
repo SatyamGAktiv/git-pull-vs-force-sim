@@ -6,3 +6,6 @@ def get_tax(price):
 
 def get_shipping(price):
     return price
+
+def get_total(price):
+    return price
