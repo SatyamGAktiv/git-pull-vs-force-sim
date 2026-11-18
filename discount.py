@@ -5,3 +5,6 @@ def get_discount(price):
 
 def get_tax(price):
     return price
+
+def get_shipping(price):
+    return price
